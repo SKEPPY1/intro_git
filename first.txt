@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 aaa
 あああ
 ・git status
+・git diff
